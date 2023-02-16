@@ -1,9 +1,8 @@
-# Илья Аброскин
-**Data Scientist / Machine Learning Engineer** <br>
-
+# **Data Scientist / Machine Learning Engineer** <br>
+<!-- 
 📩 email: [ilya.abroskinn@gmail.com](mailto:ilya.abroskinn@gmail.com) <br>
 💬 telegram: [iiiiilllllyyyyyaaaa](t.me/iiiiilllllyyyyyaaaa) 
-
+-->
 📍 Москва, Россия<br>
 
 ---
