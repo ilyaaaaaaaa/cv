@@ -1,5 +1,7 @@
 # Илья Аброскин
+Data Scientist / Machine Learning Engineer <br>
 📍 Москва, Россия
+
 
 
 
