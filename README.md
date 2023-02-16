@@ -1,4 +1,4 @@
-# Илья Аброскин 
+
 ## 👨🏼‍💻 Опыт работы
 ### Machine learning engineer @ Quantitative Trading Band 
 
