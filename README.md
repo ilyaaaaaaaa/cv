@@ -7,7 +7,7 @@
 
 ---
 ## 👨🏼‍💻 Опыт работы
-### Machine learning engineer @ Quantitative Trading Band 
+### Machine Learning engineer @ Quantitative Trading Band 
 
 _Июнь 2022 – Январь 2023_
 
