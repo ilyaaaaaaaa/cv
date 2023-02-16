@@ -1,3 +1,7 @@
+# Илья Аброскин
+📍 Москва, Россия
+
+
 
 ## 👨🏼‍💻 Опыт работы
 ### Machine learning engineer @ Quantitative Trading Band 
