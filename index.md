@@ -1,8 +1,4 @@
-theme: jekyll-theme-minimal
-title: 💻✒️📄🌟
-description:  CV
-
-Илья Аброскин 
+# Илья Аброскин 
 Москва, Россия | ilya.abroskinn@gmail.com | t.me/iiiiilllllyyyyyaaaa 
 
 # Опыт работы
