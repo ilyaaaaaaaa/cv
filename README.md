@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Илья Аброскин 
 ## 👨🏼‍💻 Опыт работы
 ### Quantitative Trading Band
